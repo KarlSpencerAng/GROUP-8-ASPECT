@@ -58,7 +58,7 @@ Start MySQL Server first, then run the application's main/login class from Eclip
 2. Import the `database/Grp8_ASPECT_Database` file to build the tables and populate the sample data.
 3. Update the `GRADING_DB_PASSWORD` in `DBConnection.java` to match your local MySQL configuration.
 
-A typical end-to-end workflow is:
+## A typical end-to-end workflow is:
 
 Registrar creates Student Account
         ↓
