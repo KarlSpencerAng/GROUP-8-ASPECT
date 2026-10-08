@@ -6,7 +6,7 @@ ASPECT is a desktop-based student academic management system built with Java Swi
 ## Team Members (Group 8)
 * ANG, KARL SPENCER Y. 
 * AQUINO, FATH DAYNIA D.
-* CRUZ, HENRICK PAUL C.
+* CRUZ, HENRICK PAUL P.
 * VILLONES, LIAN MARCO N.
   
 ## Install:
